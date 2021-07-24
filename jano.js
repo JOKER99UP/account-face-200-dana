@@ -1,6 +1,8 @@
 
 const Discord = require("discord.js");
 const myid = ['id xot'] ////////////////////prefix wara 
+const jano = new Discord.Client(ODY4NTczMTU4NDgyMDE0MjA4.YPxoWQ.7kOKSKDEFohoUz_TGjkvOnKgAUY);
+const jano = new Discord.Client();
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
